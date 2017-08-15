@@ -4,9 +4,9 @@ name := "ssys-git-versioning"
 
 organization := "ru.simplesys"
 
-version := "1.0.4"
+version := "1.0.4-SNAPSHOT"
 
-scalaVersion := "2.10.6"
+scalaVersion := "2.12.3"
 
 scalacOptions := Seq(
       "-feature",
@@ -16,5 +16,5 @@ scalacOptions := Seq(
       "-deprecation",
       "-unchecked")
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-git" % "0.8.4")
+addSbtPlugin("com.typesafe.sbt" % "sbt-git" % "0.9.3")
 
