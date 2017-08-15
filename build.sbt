@@ -4,11 +4,9 @@ name := "ssys-git-versioning"
 
 organization := "ru.simplesys"
 
-version := "1.0.3"
+version := "1.0.4"
 
-//scalaVersion := "2.10.5"
-
-//crossScalaVersions := Seq("2.11.7", "2.10.5")
+scalaVersion := "2.10.6"
 
 scalacOptions := Seq(
       "-feature",
