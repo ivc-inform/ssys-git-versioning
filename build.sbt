@@ -4,7 +4,7 @@ name := "ssys-git-versioning"
 
 organization := "ru.simplesys"
 
-version := "1.0.4"
+version := "1.0.3-SNAPSHOT"
 
 scalaVersion := "2.10.6"
 
